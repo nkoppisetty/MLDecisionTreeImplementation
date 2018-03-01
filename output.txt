@@ -1,0 +1,91 @@
+Data Set 1 Output:
+
+Before Pruning:
+Accuracy using 1st Heuristic on test_test: 74.15
+Accuracy using 2nd Heuristic on test_test: 76.8
+
+After Pruning: (L = 40 K = 5)
+Accuracy using 1st Heuristic on test_test: 74.85000000000001
+Accuracy using 2nd Heuristic on test_test: 76.8
+
+After Pruning: (L = 30 K = 9)
+Accuracy using 1st Heuristic on test_test: 74.5
+Accuracy using 2nd Heuristic on test_test: 76.7
+
+After Pruning: (L = 11 K = 9)
+Accuracy using 1st Heuristic on test_test: 74.15
+Accuracy using 2nd Heuristic on test_test: 76.8
+
+After Pruning: (L = 40 K = 50)
+Accuracy using 1st Heuristic on test_test: 74.35000000000001
+Accuracy using 2nd Heuristic on test_test: 76.8
+
+After Pruning: (L = 29 K = 3)
+Accuracy using 1st Heuristic on test_test: 74.45
+Accuracy using 2nd Heuristic on test_test: 77.05
+
+After Pruning: (L = 59 K = 12)
+Accuracy using 1st Heuristic on test_test: 74.15
+Accuracy using 2nd Heuristic on test_test: 77.0
+
+After Pruning: (L = 41 K = 26)
+Accuracy using 1st Heuristic on test_test: 74.15
+Accuracy using 2nd Heuristic on test_test: 76.7
+
+After Pruning: (L = 49 K = 44)
+Accuracy using 1st Heuristic on test_test: 74.15
+Accuracy using 2nd Heuristic on test_test: 76.8
+
+After Pruning: (L = 28 K = 71)
+Accuracy using 1st Heuristic on test_test: 74.15
+Accuracy using 2nd Heuristic on test_test: 76.8
+
+After Pruning: (L = 68 K = 28)
+Accuracy using 1st Heuristic on test_test: 74.15
+Accuracy using 2nd Heuristic on test_test: 76.85
+
+Data Set 2 Output:
+
+Before Pruning:
+Accuracy using 1st Heuristic on test_test: 72.33333333333334
+Accuracy using 2nd Heuristic on test_test: 72.5
+
+After Pruning: (L = 67 K = 7)
+Accuracy using 1st Heuristic on test_test: 72.5
+Accuracy using 2nd Heuristic on test_test: 72.33333333333334
+
+After Pruning: (L = 98 K = 22)
+Accuracy using 1st Heuristic on test_test: 71.83333333333334
+Accuracy using 2nd Heuristic on test_test: 72.33333333333334
+
+After Pruning: (L = 77 K = 2)
+Accuracy using 1st Heuristic on test_test: 72.16666666666667
+Accuracy using 2nd Heuristic on test_test: 72.66666666666667
+
+After Pruning: (L = 86 K = 20)
+Accuracy using 1st Heuristic on test_test: 72.33333333333334
+Accuracy using 2nd Heuristic on test_test: 72.33333333333334
+
+After Pruning: (L = 19 K = 40)
+Accuracy using 1st Heuristic on test_test: 72.33333333333334
+Accuracy using 2nd Heuristic on test_test: 72.0
+
+After Pruning: (L = 5 K = 8)
+Accuracy using 1st Heuristic on test_test: 72.5
+Accuracy using 2nd Heuristic on test_test: 72.5
+
+After Pruning: (L = 66 K = 81)
+Accuracy using 1st Heuristic on test_test: 72.33333333333334
+Accuracy using 2nd Heuristic on test_test: 72.66666666666667
+
+After Pruning: (L = 84 K = 12)
+Accuracy using 1st Heuristic on test_test: 72.16666666666667
+Accuracy using 2nd Heuristic on test_test: 72.5
+
+After Pruning: (L = 48 K = 33)
+Accuracy using 1st Heuristic on test_test: 72.33333333333334
+Accuracy using 2nd Heuristic on test_test: 72.66666666666667
+
+After Pruning: (L = 25 K = 2)
+Accuracy using 1st Heuristic on test_test: 72.16666666666667
+Accuracy using 2nd Heuristic on test_test: 72.33333333333334
