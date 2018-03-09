@@ -5,9 +5,21 @@
 
 
 # Instructions:
+
+change the directory to the src folder
+```
+cd MLDecisionTreeImplementation/src
+```
+compile Main.java 
 ```
 javac Main.java
+```
+run 
+```
 java Main <L> <K> <training-set> <validation-set> <test-set> <to-print>
+```
+example:
+```
 java Main 4 5 "../data_sets1/training_set.csv" "../data_sets1/validation_set.csv" "../data_sets1/test_set.csv" "no"
 ```
 
