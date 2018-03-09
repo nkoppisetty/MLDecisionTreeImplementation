@@ -5,11 +5,11 @@
 
 
 # Instructions:
-1. cd Assignment1/src
-2. javac Main.java
-3. java Main <L> <K> <training-set> <validation-set> <test-set> <to-print>
-Sample:
+```
+javac Main.java
+java Main <L> <K> <training-set> <validation-set> <test-set> <to-print>
 java Main 4 5 "../data_sets1/training_set.csv" "../data_sets1/validation_set.csv" "../data_sets1/test_set.csv" "no"
+```
 
 Arguments Info:
 L: random integer (used in the post-pruning algorithm)
