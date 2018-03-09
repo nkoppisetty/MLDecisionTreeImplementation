@@ -22,12 +22,12 @@ Step 2:  Compile Main.java file
 javac Main.java
 ```
 Step 3:  Run Main.java using the below parameters as command line arguments<br />
-L: random integer (used in the post-pruning algorithm)<br />
-K: random integer (used in the post-pruning algorithm)<br /> 
-training-set:  "../data_sets1/training_set.csv" or "../data_sets2/training_set.csv"<br />
-validation-set: "../data_sets1/validation_set.csv" or "../data_sets2/validation_set.csv"<br />
-test-set: "../data_sets1/test_set.csv" or "../data_sets2/test_set.csv"<br />
-to-print: "yes" or "no<br />
+- L: random integer (used in the post-pruning algorithm)<br />
+- K: random integer (used in the post-pruning algorithm)<br /> 
+- training-set:  "../data_sets1/training_set.csv" or "../data_sets2/training_set.csv"<br />
+- validation-set: "../data_sets1/validation_set.csv" or "../data_sets2/validation_set.csv"<br />
+- test-set: "../data_sets1/test_set.csv" or "../data_sets2/test_set.csv"<br />
+- to-print: "yes" or "no<br />
 ```
 java Main <L> <K> <training-set> <validation-set> <test-set> <to-print>
 ```
