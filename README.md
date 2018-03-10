@@ -38,3 +38,5 @@ java Main 4 5 "../data_sets1/training_set.csv" "../data_sets1/validation_set.csv
 # Output:
 The accuracies on the test set for decision trees constructed using the two heuristics as well as the accuracies for their post-pruned versions for the given values of L and K. If to-print equals yes, it prints the two decision trees.
 
+# References:
+Information gain heuristic, Post-Pruning Algorithm: Chapter 3, Machine Learning by Tom Mitchell 
