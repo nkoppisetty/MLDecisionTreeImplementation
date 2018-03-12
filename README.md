@@ -8,10 +8,10 @@ Constructed two decision trees using two heuristics for selecting the next best 
 Implemented a post pruning algorithm on the two decision trees using validation set. 
 
 
-# Data Sets:
+## Data Sets:
 Each dataset is divided into three sets: the training set, the validation set and the test set. The first line in the file gives the attribute names. Each line after that is a list of attribute values separated by a comma. The last attribute is the class-variable.
 
-# How to run:
+## Getting Started:
 
 Step 1:  Change the directory to the src folder
 ```
@@ -35,8 +35,11 @@ Example:
 ```
 java Main 4 5 "../data_sets1/training_set.csv" "../data_sets1/validation_set.csv" "../data_sets1/test_set.csv" "no"
 ```
-# Output:
+## Output:
 The accuracies on the test set for decision trees constructed using the two heuristics as well as the accuracies for their post-pruned versions for the given values of L and K. If to-print equals yes, it prints the two decision trees.
 
-# References:
+## References:
 Information gain heuristic, Post-Pruning Algorithm: Chapter 3, Machine Learning by Tom Mitchell 
+
+## Prerequisites
+Java Version 9.0.1
